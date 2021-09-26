@@ -10,7 +10,7 @@ This repository includes ...
 
 
 ## Newspaper lineage web scraper
-<p>For a forthcoming investigative series and news app, a colleague and I built a web scraper that uses the Library of Congress Chronicling America database to trace the lineages of all current U.S. newspapers. We wrote the code for the scraper in Python using Selenium and exported the resulting files to R for further manipulation and analysis. This scraper laid the foundation for analysis of historical newspaper coverage about our topic. The full project will be published by the Howard Center for investigative Journalism in fall/winter 2021.</p>
+<p>For a forthcoming investigative series and news app, a colleague and I built a web scraper that uses the Library of Congress Chronicling America database to trace the lineages of all current U.S. newspapers. We wrote the code for <a href ="https://github.com/karanewh/kn_data_jour_portfolio/blob/main/loc_scraper_kara.ipynb">loc_scraper_kara.ipynb</a> in Python using Selenium and exported the resulting files to R for further manipulation and analysis. This scraper laid the foundation for analysis of historical newspaper coverage about our topic. The full project will be published by the Howard Center for investigative Journalism in fall/winter 2021.</p>
 
 
 ## Data-driven education reporting
