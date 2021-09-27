@@ -1,7 +1,7 @@
 # Kara Newhouse Data Journalism Portfolio
 ## Overview
 <p>This repository includes examples of the code I have written as a data reporter at the Howard Center for Investigative Journalism at the University of Maryland.</p>
-<p>I began learning to code when I started my graduate education at Philip Merrill College of Journalism in August 2020. By spring 2021, I was co-leading a team of seven data reporters on an examination of worker safety in the coronavirus, using messy datasets from ten different states, along with federal data.</p>
+<p>I began learning to code when I started my graduate education at Philip Merrill College of Journalism in August 2020. By spring 2021, I was co-leading a team of seven data reporters on an examination of worker safety in the coronavirus, using complex datasets from ten different states, along with federal data.</p>
 
 ## Essential and Exposed: Analysis of workplace COVID-19 outbreaks
 <p>Analysis of state health department records led to key findings for a Howard Center for Investigative Journalism project on worker safety during the first year of the COVID-19 pandemic. We found that essential workers at places like Walmart paid the price for splintered government oversight of workplace safety. The 13 data findings that shaped the final story, along with their underlying code, can be seen in our <a href="https://howard-center-investigations.github.io/essential_and_exposed/osha_walmart/index.html">line-by-line fact check</a>. The <a href="https://apnews.com/article/coronavirus-pandemic-health-business-caf5e31d883a18deae6cd367a5ee8978">Associated Press</a> ran our story, and it was picked up by newspapers across the country, including The Washington Post.</p>
