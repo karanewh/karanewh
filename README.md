@@ -1,6 +1,6 @@
 # Kara Newhouse Data Journalism Portfolio
 ## Overview
-<p>This repository includes examples of the code I have written as a data reporter at the Howard Center for Investigative Journalism at the University of Maryland.</p>
+<p>This repository includes examples of my work as a data reporter at the Howard Center for Investigative Journalism at the University of Maryland.</p>
 <p>I began learning to code when I started my graduate education at Philip Merrill College of Journalism in August 2020. By spring 2021, I was co-leading a team of seven data reporters on an examination of worker safety in the coronavirus pandemic, using complex datasets from ten different states, along with federal data.</p>
 
 ## Essential and Exposed: Analysis of workplace COVID-19 outbreaks
