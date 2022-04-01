@@ -5,13 +5,13 @@
 
 ## Essential and Exposed: Analysis of workplace COVID-19 outbreaks
 <p>Analysis of state health department records led to key findings for a Howard Center for Investigative Journalism project on worker safety during the first year of the COVID-19 pandemic. We found that essential workers at places like Walmart paid the price for splintered government oversight. The 13 data findings that shaped the final story, along with their underlying code, can be seen in our <a href="https://howard-center-investigations.github.io/essential_and_exposed/osha_walmart/index.html">line-by-line fact check</a>.</p>
-<p>From records acquisition to analysis to many late-night rounds of writing, revising and fact checking, I was deeply involved in every aspect of the data work on this project.
+<p>From records acquisition to analysis to many late-night rounds of writing, revising and fact checking, I was deeply involved in every aspect of the data work on this project. My responsibilities included:
 <ul>
-  <li>Coordinated a 50-person public records campaign to obtain data on workplace COVID-19 outbreaks from state health departments.</li>
-  <li>Co-led a team of seven reporters in cleaning, wrangling and analyzing data.</li>
-  <li>Wrote code to look for patterns and outliers within states and identify outbreaks at Walmart stores and distribution centers across states.</li>
-  <li>As the most senior reporter on the team, assisted peers in asking journalistic questions about the data, problem-solving in R and transforming data findings into language that the reporting team and readers could digest.</li>
-  <li>Applied news judgment and journalism ethics to decisions about data from states that differed in their definitions of "workplace outbreak" across multiple variables, and some did not even use the term "outbreak."
+  <li>Coordinating a 50-person public records campaign to obtain data on workplace COVID-19 outbreaks from state health departments.</li>
+  <li>Co-leading a team of seven reporters in cleaning, wrangling and analyzing data.</li>
+  <li>Writing code to look for patterns and outliers within states and identify outbreaks at Walmart stores and distribution centers across states.</li>
+  <li>As the most senior reporter on the team, assisting team members in asking journalistic questions about the data, problem-solving in R and transforming data findings into language that the reporting team and readers could digest.</li>
+  <li>Applying news judgment and journalism ethics to decisions about data from states that differed in their definitions of "workplace outbreak" across multiple variables, and some did not even use the term "outbreak."
 </ul>
 The <a href="https://apnews.com/article/coronavirus-pandemic-health-business-caf5e31d883a18deae6cd367a5ee8978">Associated Press</a> ran the story, and it was picked up by newspapers across the country, including The Washington Post.</p>
 
