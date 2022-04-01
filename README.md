@@ -12,6 +12,7 @@
   <li>Wrote code to look for patterns and outliers within states and identify outbreaks at Walmart stores and distribution centers across states.</li>
   <li>As the most senior reporter on the team, assisted peers in asking journalistic questions about the data, problem-solving in R and transforming data findings into language that the reporting team and readers could digest.</li>
   <li>Applied news judgment and journalism ethics to decisions about data from states that differed in their definitions of "workplace outbreak" across multiple variables, and some did not even use the term "outbreak."
+</ul>
 The <a href="https://apnews.com/article/coronavirus-pandemic-health-business-caf5e31d883a18deae6cd367a5ee8978">Associated Press</a> ran the story, and it was picked up by newspapers across the country, including The Washington Post.</p>
 
 ## Newspaper lineage web scraper
