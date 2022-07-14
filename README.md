@@ -3,7 +3,7 @@
 <p>This repository includes examples of my work as a data reporter at the Howard Center for Investigative Journalism at the University of Maryland.</p>
 <p>I began learning to code when I started my graduate education at Philip Merrill College of Journalism in August 2020. By spring 2021, I was co-leading a team of seven data reporters on an examination of worker safety in the coronavirus pandemic, using complex datasets from ten different states, along with federal data.</p>
 
-## :basketball_woman::swimming_woman:Unlevel Playing Fields: Flaws in federal Title IX data
+## :basketball_woman:Unlevel Playing Fields: Flaws in federal Title IX data
 <p>Through public records requests, data analysis and traditional reporting, I found that <a href"https://cnsmaryland.org/2022/04/11/title-ix-federal-sports-data/">federal data often overstates high school girls’ participation in sports</a>. That makes it impossible to tell whether schools are in compliance with Title IX, unless someone complains.<p>
 <p>This story ran on the front page of <a href="https://www.baltimoresun.com/sports/bs-sp-cns-federal-title-ix-sports-data-unreliable-20220427-baaxhw2ebfcclegy564idvieey-story.html">The Baltimore Sun<a>. It was part of “Unlevel Playing Fields,” a series that examined the continued obstacles to gender equity in high school sports as Title IX turned 50. The underlying code for my data findings and the graphics I produced can be seen in the <a href="https://howard-center-investigations.github.io/title-ix/fact_check.html">fact check notebook<a> that accompanied the story.</p>
   
@@ -25,12 +25,12 @@
 </ul>
 The <a href="https://apnews.com/article/coronavirus-pandemic-health-business-caf5e31d883a18deae6cd367a5ee8978">Associated Press</a> ran the story, and it was picked up by newspapers across the country, including The Washington Post.</p>
 
-## :teacher:Data-driven education reporting
+## :school:Data-driven education reporting
 <p>Prior to my graduate education, I used a data-driven approach to connect public policy to people’s lives as an education beat reporter in Lancaster, Pennsylvania.</p>
 <p>For example, as frustration over standardized testing surged nationwide, I obtained data from the state Department of Education about families opting children out of mandated assessments and <a href="https://drive.google.com/file/d/11LfYrtY3hN7CudxUktHKJmYL8ume31QM/view?usp=sharing">reported on a statewide spike in this practice</a>. I found that Lancaster County was a hotspot for opt-outs — a discovery that complemented my prior reporting on local parents organizing around this issue. After my story was published, other education reporters across Pennsylvania sought the same data I had obtained and localized the topic to their regions.</p>
 <p>For that story and others on the ed beat, I conducted my analyses using self-taught methods in Google Sheets. I also experimented with building interactive maps via Fusion Tables and regularly created my own graphics using free web tools. I bring my love of learning and willingness to try new techniques to every setting, whether in school or out.</p>
 
-## About Me
+## :fountain_pen:About Me
 <p>Kara Newhouse is an award-winning reporter based at the Howard Center for Investigative Journalism who has also covered COVID-19's impact on K-12 classrooms nationwide for <a href="https://www.kqed.org/author/kdnewhouse">KQED MindShift.</a></p>
 <p>She previously worked for <a href="https://lancasteronline.com/">LNP/LancasterOnline</a> in Pennsylvania, where she uncovered financial mismanagement and persistent Sunshine Act violations in Lancaster County's wealthiest school district. Her reporting prompted hundreds of taxpayers to attend public meetings and demand changes to school district operations, including a more transparent superintendent search and the restoration of elementary art and music classes.</p>
 <p>Newhouse is pursuing a master’s degree in journalism with an emphasis on investigative and data journalism at the Philip Merrill College of Journalism at the University of Maryland. Her undergraduate degree is from American University, where she studied anthropology.</p>
