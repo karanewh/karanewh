@@ -25,7 +25,7 @@
 The <a href="https://apnews.com/article/coronavirus-pandemic-health-business-caf5e31d883a18deae6cd367a5ee8978">Associated Press</a> ran the story, and it was picked up by newspapers across the country, including The Washington Post.</p>
 
 ## :school:Data-driven education reporting
-<p>Prior to my graduate education, I used a data-driven approach to connect public policy to people’s lives as an education beat reporter in Lancaster, Pennsylvania.</p>
+<p>As an education beat reporter in Lancaster, Pennsylvania, I used data to connect public policy to people’s lives.</p>
 <p>For example, as frustration over standardized testing surged nationwide, I obtained data from the state Department of Education about families opting children out of mandated assessments and <a href="https://drive.google.com/file/d/11LfYrtY3hN7CudxUktHKJmYL8ume31QM/view?usp=sharing">reported on a statewide spike in this practice</a>. I found that Lancaster County was a hotspot for opt-outs — a discovery that complemented my prior reporting on local parents organizing around this issue. After my story was published, other education reporters across Pennsylvania sought the same data I had obtained and localized the topic to their regions.</p>
 <p>For that story and others on the ed beat, I conducted my analyses using self-taught methods in Google Sheets. I also experimented with building interactive maps via Fusion Tables and regularly created my own graphics using free web tools. I bring my love of learning and willingness to try new techniques to every setting.</p>
 
