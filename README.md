@@ -1,7 +1,6 @@
 # Kara Newhouse Data Journalism Portfolio
 ## Overview
-<p>This repository includes examples of my work as a data reporter at the Howard Center for Investigative Journalism at the University of Maryland.</p>
-<p>I began learning to code when I started my graduate education at Philip Merrill College of Journalism in August 2020. By spring 2021, I was co-leading a team of seven data reporters on an examination of worker safety in the coronavirus pandemic, using complex datasets from ten different states, along with federal data.</p>
+<p>This repository includes examples of my work using data to discover, report and tell compelling and important stories.</p>
 
 ## :basketball_woman:Unlevel Playing Fields: Flaws in federal Title IX data
 <p>Through public records requests, data analysis and traditional reporting, I found that <a href"https://cnsmaryland.org/2022/04/11/title-ix-federal-sports-data/">federal data often overstates high school girls’ participation in sports</a>. That makes it impossible to tell whether schools are in compliance with Title IX, unless someone complains.<p>
