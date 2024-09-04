@@ -1,6 +1,6 @@
 # Kara Newhouse Data Journalism Portfolio
 ## Overview
-<p>This repository includes examples of my work using data to discover, report and tell compelling and important stories.</p>
+<p>I am committed to journalism that holds public officials accountable and shines a light on systemic inequities. This repository includes examples of my work using data to discover, report and tell those kinds of stories.</p>
 
 ## :basketball_woman:Unlevel Playing Fields: Flaws in federal Title IX data
 <p>Through public records requests, data analysis and traditional reporting, I found that <a href"https://cnsmaryland.org/2022/04/11/title-ix-federal-sports-data/">federal data often overstates high school girls’ participation in sports</a>. That makes it impossible to tell whether schools are in compliance with Title IX, unless someone complains.<p>
@@ -30,6 +30,5 @@ The <a href="https://apnews.com/article/coronavirus-pandemic-health-business-caf
 <p>For that story and others on the ed beat, I conducted my analyses using self-taught methods in Google Sheets. I also experimented with building interactive maps via Fusion Tables and regularly created my own graphics using free web tools. I bring my love of learning and willingness to try new techniques to every setting, whether in school or out.</p>
 
 ## :fountain_pen:About Me
-<p>Kara Newhouse is an award-winning reporter based at the Howard Center for Investigative Journalism who has also covered COVID-19's impact on K-12 classrooms nationwide for <a href="https://www.kqed.org/author/kdnewhouse">KQED MindShift.</a></p>
-<p>She previously worked for <a href="https://lancasteronline.com/">LNP/LancasterOnline</a> in Pennsylvania, where she uncovered financial mismanagement and persistent Sunshine Act violations in Lancaster County's wealthiest school district. Her reporting prompted hundreds of taxpayers to attend public meetings and demand changes to school district operations, including a more transparent superintendent search and the restoration of elementary art and music classes.</p>
-<p>In May 2022 Newhouse completed a master’s degree in journalism with an emphasis on investigative and data journalism at the Philip Merrill College of Journalism at the University of Maryland. Her undergraduate degree is from American University, where she studied anthropology.</p>
+<p>Kara Newhouse is an award-winning reporter who has worked at the Howard Center for Investigative Journalism, KQED MindShift and LNP/LancasterOnline in Pennsylvania, among other outlets. As an education reporter in Pennsylvania, she and another reporter uncovered financial mismanagement and persistent Sunshine Act violations in Lancaster County's wealthiest school district. Their reporting prompted hundreds of taxpayers to attend public meetings and demand changes to school district operations, including a more transparent superintendent search and the restoration of elementary art and music classes.</p>
+<p>Newhouse holds a master’s degree in journalism with an emphasis on investigative and data journalism at the Philip Merrill College of Journalism at the University of Maryland. Her undergraduate degree is from American University, where she studied anthropology.</p>
