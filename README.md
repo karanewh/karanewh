@@ -26,10 +26,9 @@ The <a href="https://apnews.com/article/coronavirus-pandemic-health-business-caf
 
 ## 📊 Datawrapper & Flourish charts
 <ul>
+  <li><a href="https://suncoastsearchlight.org/the-tally-ice-detainers-in-florida/">The Tally: What the data reveals about ICE detainers in Florida</a></li>
   <li><a href="https://www.kqed.org/mindshift/64582/how-can-the-community-school-model-support-newcomer-education">How Can the Community School Model Support Newcomer Education</a></li>
   <li><a href="https://www.kqed.org/news/12001154/valley-fever-rises-after-california-music-festival-experts-warn-of-climate-change-link">Valley Fever Rises After California Music Festival, Experts Warn of Climate</a></li>
-  <li><a href="https://lynching.cnsmaryland.org/2021/11/10/black-women-lynchings/">History focuses on men, but Black women were lynched, too</a></li>
-</ul>
 
 ## :school: Data-driven education reporting
 <p>As an education beat reporter in Lancaster, Pennsylvania, I used data to connect public policy to people’s lives.</p>
